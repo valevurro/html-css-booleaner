@@ -4,11 +4,18 @@ header {
 
    background-color: rgb(84, 148, 243);
 
-   background-size: 30%;
+   background-size: 35%;
 
-   
-
+   height: 90px;
 }
 
+#logo{
+
+    width: 120px;
+
+    margin-top: 55px;
+
+    
+}
 
 
