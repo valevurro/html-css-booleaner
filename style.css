@@ -9,6 +9,17 @@ header {
    height: 90px;
 }
 
+.firstline{
+
+    color: darkgray;
+
+}
+
+#description{
+
+    font-size: 10px;
+}
+
 #logo{
 
     width: 120px;
@@ -91,4 +102,9 @@ color: aliceblue;
 table{
 
     border-collapse: collapse;
+}
+
+body{
+
+    margin: 0;
 }
