@@ -25,12 +25,6 @@ color: aliceblue;
 
 }
 
-tbody{
-
-background-color: rgb(152, 184, 243);
-
-}
-
 
 #monitor{
 
@@ -42,3 +36,59 @@ background-color: rgb(152, 184, 243);
     width: 200px;
 }
 
+
+.Lorem{
+
+    background-color: rgb(160, 187, 237);
+}
+
+
+#info{
+
+    color: darkgrey;
+}
+
+.img-monitor{
+
+    background-image: url(img/monitor.jpg);
+
+    background-repeat: no-repeat;
+
+    height: 200px;
+
+    width: 300px;
+}
+
+#monitor{
+
+    color: aliceblue;
+
+    font-size: 145%;
+
+    margin: 10px;
+}
+
+.img-graphic{
+
+    background-image: url(img/graph.jpg);
+
+    background-repeat: no-repeat;
+
+    height: 200px;
+
+    width: 300px;
+}
+
+#graph{
+
+    color: aliceblue;
+
+    font-size: 145%;
+
+    margin: 10px;
+}
+
+table{
+
+    border-collapse: collapse;
+}
