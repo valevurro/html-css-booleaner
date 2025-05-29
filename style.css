@@ -14,12 +14,25 @@ header {
     width: 120px;
 
     margin-top: 55px;
-
-    
+   
 }
 
-#firstline{
+thead{
 
-    text-size-adjust: 10px;
+background-color: cornflowerblue;
+
+color: aliceblue;
+
+}
+
+
+#monitor{
+
+    width: 200px;
+}
+
+#graphic{
+
+    width: 200px;
 }
 
